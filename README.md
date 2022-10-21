@@ -1,19 +1,3 @@
-
-
-<!--
-**vinayprajapat01201/vinayprajapat01201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Vinay Prajapat</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
@@ -21,7 +5,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayprajapat01201" alt="vinayprajapat01201" /></a> </p>
 
-- 🔭 I’m currently working on [Zomato clone](https://zomato-project1.netlify.app)
+- 🔭 I’m currently working on [Task Management Website](https://taskorg.netlify.app)
 
 - 🌱 I’m currently learning **Full stack development, SQL, python, EDA,C++**
 
