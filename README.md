@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayprajapat01201" alt="vinayprajapat01201" /></a> </p>
 
-- 🔭 I’m currently working on [BookMyShow website clone](book-my-show-clone-4anb6mcl2-vinayprajapat01201.vercel.app)
+- 🔭 I’m currently working on [BookMyShow website clone](https://book-my-show-clone-4anb6mcl2-vinayprajapat01201.vercel.app/)
 
 - 🌱 I’m currently learning **Full stack development, SQL, python, EDA,C++**
 
